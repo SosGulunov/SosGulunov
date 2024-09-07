@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @SosGulunov
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning C#
 - 📫 How to reach me? - sosgul999@gmail.com
